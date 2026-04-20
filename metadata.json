@@ -1,0 +1,5 @@
+{
+  "name": "EMG Bionic Control Lab",
+  "description": "A simulation and visualization platform for EMG-based pattern recognition in prosthetic control, inspired by the NinaPro database.",
+  "requestFramePermissions": []
+}
